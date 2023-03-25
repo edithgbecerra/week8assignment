@@ -1,0 +1,66 @@
+
+
+body { 
+    background-color: lightyellow;
+    
+}
+
+h1 { 
+    
+    border-bottom: 2px solid black;
+    text-align: center; 
+    color:darkslategray}
+
+h4 { 
+    color:rgb(90, 75, 41)
+
+}
+
+h5 { 
+    color:rgb(90, 75, 41) 
+
+}
+
+
+img {
+    border: 5px solid #555;
+  }
+
+  #navigation {
+    padding: 20px;
+    text-align: center;
+    word-spacing: 5pc;
+    border-style: solid;
+    border-width: 3px;
+    margin: 30px
+
+}
+
+  #contact-info{
+    text-align: center; 
+
+  }
+
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    
+  }
+
+  th,td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+  }
+
+  .list{
+    text-align:left;
+    line-height: 2;
+
+
+  }
+
+  #footer {
+    float:right;
+   
+  }
